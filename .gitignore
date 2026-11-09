@@ -21,3 +21,5 @@ env/
 *.swo
 .DS_Store
 Thumbs.db
+
+final_project/laureates.json
